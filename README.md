@@ -20,7 +20,7 @@ This course will equip you with skills necessary for jobs and careers in softwar
 The course is divided into seven modules, each(except module 0) containing study resources, labs, quizzes, and module tests to help you solidify your understanding of JavaScript.
 
 ### 0. Introduction
-- Course Structure,Syllabus,Learning Objectives and Graduate Profile,
+- Course Structure,Syllabus,Learning Objectives and Graduate Profile
 
 ### 1. Introduction to JavaScript and Computer Programming
 - Overview of the JavaScript language and basic programming concepts.
