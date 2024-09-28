@@ -50,6 +50,4 @@ Each module is structured into separate folders, containing:
 
 Feel free to explore each module and track your progress as you prepare for the **JSE Certification**.
 
----
-
 Good luck with your preparation!
