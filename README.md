@@ -39,15 +39,3 @@ The course is divided into seven modules, each(except module 0) containing study
 
 ### 6. Errors, Exceptions, Debugging, and Troubleshooting
 - Handling errors, exceptions, and mastering debugging techniques.
-
-## How to Use This Repository
-
-Each module is structured into separate folders, containing:
-- **Study Resources**: Materials and references to learn the topics.
-- **Module Labs**: Practical labs for hands-on learning.
-- **Module Quizzes**: Short quizzes to test your understanding.
-- **Module Tests**: Comprehensive tests for module completion.
-
-Feel free to explore each module and track your progress as you prepare for the **JSE Certification**.
-
-Good luck with your preparation!
